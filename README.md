@@ -2,4 +2,3 @@
 
 以下内容为
 
-![png](result1.png)
