@@ -12,15 +12,15 @@ auc= 0.8121010624209538
 
 [(0.3266, 'RUUnsecuredL'), (0.1698, 'NOTimes90'), (0.1674, 'NOTime30-59'), (0.0783, 'NOTime60-89'), (0.0699, 'age'), (0.0644, 'DebtRatio'), (0.0486, 'Income'), (0.0428, 'NOCredit'), (0.0207, 'NORealEstate'), (0.0115, 'NODependents')]
 
- 1) RUUnsecuredL                   0.326557  
- 2) age                            0.169813  
- 3) NOTime30-59                    0.167416  
- 4) DebtRatio                      0.078330  
- 5) Income                         0.069923  
- 6) NOCredit                       0.064409  
- 7) NOTimes90                      0.048556  
- 8) NORealEstate                   0.042807  
- 9) NOTime60-89                    0.020651  
+01) RUUnsecuredL                   0.326557  
+02) age                            0.169813  
+03) NOTime30-59                    0.167416  
+04) DebtRatio                      0.078330  
+05) Income                         0.069923  
+06) NOCredit                       0.064409  
+07) NOTimes90                      0.048556  
+08) NORealEstate                   0.042807  
+09) NOTime60-89                    0.020651  
 10) NODependents                   0.011539  
 
 the best parameter:  
